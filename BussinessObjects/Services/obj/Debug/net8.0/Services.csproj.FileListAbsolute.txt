@@ -1,0 +1,5 @@
+D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
