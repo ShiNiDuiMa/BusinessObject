@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using BussinessObjects;
 using DataAccessLayer;
 
@@ -10,12 +7,26 @@ namespace Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        public void DeleteProduct(Product p) => ProductDAO.DeleteProduct(p);
-        public void SaveProduct(Product p) => ProductDAO.SaveProduct(p);
+        private readonly ProductDAO productDAO;
 
-        public void UpdateProduct(Product p) => ProductDAO.UpdateProduct(p);
+        public ProductRepository()
+        {
+            productDAO = new ProductDAO();
+        }
 
-        public List<Product> GetProducts() => ProductDAO.GetProducts();
-        public Product GetProductById(int id) => ProductDAO.GetProductById(id);
+        public void DeleteProduct(Product product)
+        => productDAO.DeleteProduct(product);
+
+        public Product GetProductById(int id)
+        => productDAO.GetProductById(id);
+
+        public List<Product> GetProducts()
+        => productDAO.GetProducts();
+
+        public void SaveProduct(Product product)
+        => productDAO.SaveProduct(product);
+
+        public void UpdateProduct(Product product)
+        => productDAO.UpdateProduct(product);
     }
 }

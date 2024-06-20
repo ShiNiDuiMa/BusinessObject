@@ -4,3 +4,46 @@ D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\obj\Deb
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.cache
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.lref
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.AssemblyReference.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.lref
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.exe
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.deps.json
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.runtimeconfig.json
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Repositories.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Services.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Repositories.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\bin\Debug\net8.0-windows\Services.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.g.resources
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfoInputs.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfo.cs
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.CoreCompileInputs.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.sourcelink.json
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductM.8086A758.Up2Date
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\refint\ProductManagement.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.genruntimeconfig.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\ref\ProductManagement.dll

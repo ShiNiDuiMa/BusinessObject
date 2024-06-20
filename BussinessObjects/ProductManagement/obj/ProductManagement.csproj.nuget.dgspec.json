@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\ProductManagement.csproj": {}
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\ProductManagement.csproj": {}
   },
   "projects": {
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj",
+        "projectUniqueName": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj",
         "projectName": "BussinessObjects",
-        "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj",
+        "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj",
         "packagesPath": "C:\\Users\\bantr\\.nuget\\packages\\",
-        "outputPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\obj\\",
+        "outputPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bantr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,14 +84,14 @@
         }
       }
     },
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\bantr\\.nuget\\packages\\",
-        "outputPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\obj\\",
+        "outputPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bantr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
               }
             }
           }
@@ -108,6 +128,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -128,14 +168,14 @@
         }
       }
     },
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\ProductManagement.csproj": {
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\ProductManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\ProductManagement.csproj",
+        "projectUniqueName": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\ProductManagement.csproj",
         "projectName": "ProductManagement",
-        "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\ProductManagement.csproj",
+        "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\ProductManagement.csproj",
         "packagesPath": "C:\\Users\\bantr\\.nuget\\packages\\",
-        "outputPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\obj\\",
+        "outputPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bantr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,17 +192,17 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
               },
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj"
               },
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj"
               },
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\Services.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\Services.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\Services.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\Services.csproj"
               }
             }
           }
@@ -181,6 +221,26 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -204,14 +264,14 @@
         }
       }
     },
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj": {
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\bantr\\.nuget\\packages\\",
-        "outputPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\obj\\",
+        "outputPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bantr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,11 +288,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
               },
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }
@@ -251,6 +311,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -271,14 +351,14 @@
         }
       }
     },
-    "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\Services.csproj": {
+    "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\Services.csproj",
+        "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\bantr\\.nuget\\packages\\",
-        "outputPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\obj\\",
+        "outputPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bantr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -295,11 +375,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\BussinessObjects.csproj"
               },
-              "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\Repositories.csproj"
+              "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -318,6 +398,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

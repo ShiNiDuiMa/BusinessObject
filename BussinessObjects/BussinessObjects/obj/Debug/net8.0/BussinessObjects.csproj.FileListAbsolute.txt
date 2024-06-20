@@ -9,3 +9,16 @@ D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\BussinessObjects\obj\Debu
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
 D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.AssemblyReference.cache

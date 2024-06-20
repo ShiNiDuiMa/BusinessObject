@@ -10,7 +10,7 @@ namespace DataAccessLayer
     public class ProductDAO
     {
         private static List<Product> listProducts;
-        public ProductDAO()
+        static ProductDAO()
         {
             Product chai = new Product(1, "Chai", 3, 12, 18);
             Product chang = new Product(2, "Chang", 1, 23, 19);
@@ -18,24 +18,24 @@ namespace DataAccessLayer
             listProducts = new List<Product> { chai, chang, aniseed };
 
         }
-        public List<Product> GetProductlist()
+        public List<Product> GetProducts()
         {
             return listProducts;
         }
-        public static List<Product> GetProducts()
-        {
-            var listProducts = new List<Product>();
-            try
-            {
-                using var db = new MyStoreContext();
-                listProducts = db.Products.ToList();
-            }
-            catch (Exception ex)
-            {
+        //public static List<Product> GetProductsdb()
+        //{
+        //    var listProducts = new List<Product>();
+        //    try
+        //    {
+        //        using var db = new MyStoreContext();
+        //        listProducts = db.Products.ToList();
+        //    }
+        //    catch (Exception ex)
+        //    {
 
-            }
-            return listProducts;
-        }
+        //    }
+        //    return listProducts;
+        //}
 
         public void SaveProduct(Product p)
         {

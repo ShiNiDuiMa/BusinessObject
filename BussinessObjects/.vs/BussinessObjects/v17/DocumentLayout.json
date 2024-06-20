@@ -1,93 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\",
+  "WorkspaceRootPath": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\visual stu code\\bussinessobjects\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\businessobject\\bussinessobjects\\dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\businessobject\\bussinessobjects\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|d:\\summer 2024\\prn391\\businessobject\\bussinessobjects\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\bussinessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bantr\\AppData\\Local\\Temp\\.vsdbgsrc\\29f8927ed25e0098e3c3d463fee0b312caa0a901585c272890cd9d0338e52015\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3C7346-1FBA-46CE-BCD9-491D9251F872}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\productmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\bussinessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\bussinessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\bussinessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E33C8919-E2DB-46A3-96F0-4CCC0BEBF38F}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\productmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\productmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CA021E-17BB-4564-9BF9-A73F1962AC49}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74E5CBD-7EE2-495C-AA3D-BDE18A0F8C2D}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:Repositories\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65399B6-3BDB-4D22-B87F-C0096FD82E33}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,269 +113,358 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessObjects",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeToolTip": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:23:50.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\MyStoreContext.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\MyStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:24:22.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\MainWindow.xaml",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:28:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemContainerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\bantr\\AppData\\Local\\Temp\\.vsdbgsrc\\29f8927ed25e0098e3c3d463fee0b312caa0a901585c272890cd9d0338e52015\\ItemContainerGenerator.cs",
+              "ToolTip": "C:\\Users\\bantr\\AppData\\Local\\Temp\\.vsdbgsrc\\29f8927ed25e0098e3c3d463fee0b312caa0a901585c272890cd9d0338e52015\\ItemContainerGenerator.cs [Read Only]",
+              "ViewState": "AQIAAEMCAAAAAAAAAAApwHcFAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:15:02.345Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwF0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:23:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T13:26:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:11:04.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductDAO.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\ProductDAO.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\ProductDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\DataAccessObjects\\ProductDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAAApAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wEMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T02:45:36.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:40:37.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:25:11.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Services\\IProductService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\IProductService.cs",
-              "RelativeToolTip": "Services\\IProductService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:27:30.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAACkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:18:48.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:47:34.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAUwK4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:23:40.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\Product.cs",
-              "RelativeDocumentMoniker": "BussinessObjects\\Product.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\Product.cs",
-              "RelativeToolTip": "BussinessObjects\\Product.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:55:29.789Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\App.xaml",
-              "RelativeDocumentMoniker": "ProductManagement\\App.xaml",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\App.xaml",
-              "RelativeToolTip": "ProductManagement\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T14:45:28.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\LoginWindow.xaml",
-              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T13:26:49.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\MainWindow.xaml",
-              "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-07T07:23:41.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AccountMember.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\AccountMember.cs",
-              "RelativeDocumentMoniker": "BussinessObjects\\AccountMember.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\AccountMember.cs",
-              "RelativeToolTip": "BussinessObjects\\AccountMember.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAcAAAAxAAAA",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:55:21.927Z"
+              "WhenOpened": "2024-06-11T02:40:37.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\Category.cs",
-              "RelativeDocumentMoniker": "BussinessObjects\\Category.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\BussinessObjects\\Category.cs",
-              "RelativeToolTip": "BussinessObjects\\Category.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:55:26.3Z"
+              "WhenOpened": "2024-06-11T13:47:34.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ProductManagement\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\ProductManagement\\AssemblyInfo.cs",
-              "RelativeToolTip": "ProductManagement\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObjects\\Product.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\Product.cs",
+              "RelativeToolTip": "BussinessObjects\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:38:51.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:30:31.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAUAAACgdRQwpM4ewA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:31:11.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\IAccountRepository.cs",
-              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:30:51.104Z"
+              "WhenOpened": "2024-06-11T13:55:29.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "Services\\ICategoryService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\App.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\App.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\App.xaml",
+              "RelativeToolTip": "ProductManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:45:28.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:26:27.635Z"
+              "WhenOpened": "2024-06-11T02:25:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:27:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:18:48.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Services\\AccountService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\AccountService.cs",
-              "RelativeToolTip": "Services\\AccountService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAABAAAAA",
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BussinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BussinessObjects\\AccountMember.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:23:52.178Z"
+              "WhenOpened": "2024-06-11T13:55:21.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\IAccountService.cs",
-              "RelativeToolTip": "Services\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BussinessObjects\\Category.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\BussinessObjects\\Category.cs",
+              "RelativeToolTip": "BussinessObjects\\Category.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:07:14.419Z"
+              "WhenOpened": "2024-06-11T13:55:26.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Services\\CategoryService.cs",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\ProductManagement\\AssemblyInfo.cs",
+              "RelativeToolTip": "ProductManagement\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:38:51.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:09:33.678Z"
+              "WhenOpened": "2024-06-07T07:30:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAUAAACgdRQwpM4ewA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:31:11.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:30:51.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:26:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:23:52.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:07:14.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:09:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\AccountRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\Summer 2024\\PRN391\\Visual Stu Code\\BussinessObjects\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\BusinessObject\\BussinessObjects\\Repositories\\AccountRepository.cs",
               "RelativeToolTip": "Repositories\\AccountRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:21:35.537Z"
+              "WhenOpened": "2024-06-07T07:21:35.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\obj\Debug\net8.0-windows\
 ProductManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Summer 2024\PRN391\Visual Stu Code\BussinessObjects\ProductManagement\App.xaml
+D:\Summer 2024\PRN391\BusinessObject\BussinessObjects\ProductManagement\App.xaml
 2-216653475
 
 7-370379927
-202-186238516
+248-2120320409
 LoginWindow.xaml;MainWindow.xaml;
 
-False
+True
 

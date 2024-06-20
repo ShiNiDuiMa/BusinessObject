@@ -89,9 +89,8 @@ namespace ProductManagement
         public void dgData_SelectionChanged(object sender, RoutedEventArgs e)
         {
             DataGrid dataGrid = sender as DataGrid;
-            DataGrid row =
-                (DataGridRow)dataGrid.ItemContainerGenerator
-                .ContainerFromIndex(dataGrid.SelectedIndex);
+            DataGridRow row = (DataGridRow)dataGrid.ItemContainerGenerator
+    .ContainerFromIndex(dataGrid.SelectedIndex);
             DataGridCell RowColumn =
                 dataGrid.Columns[0].GetCellContent(row).Parent as DataGridCell;
             string id = ((TextBlock)RowColumn.Content).Text;
